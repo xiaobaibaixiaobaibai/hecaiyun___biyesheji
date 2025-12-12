@@ -34,10 +34,5 @@
     "constants.ts",
     "vite.config.ts",
     "api"
-  ],
-  "references": [
-    {
-      "path": "./tsconfig.node.json"
-    }
   ]
 }

@@ -1,0 +1,5 @@
+{
+  "name": "LibGenius AI - 智能图书管理系统",
+  "description": "一个基于 React 和 Gemini AI 的现代化图书管理系统。具备图书 CRUD、借阅管理、数据可视化大屏以及 AI 智能图书录入和推荐功能。完全前端实现，模拟后端数据库体验。",
+  "requestFramePermissions": []
+}
